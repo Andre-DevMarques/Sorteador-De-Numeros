@@ -5,10 +5,6 @@ button.addEventListener("click", function() {
     let SegundoInput = document.querySelector("#input2").value;
     let resultado = document.querySelector("#resultado");
 
-    // Converte os valores para números
-    PrimeiroInput = Number(PrimeiroInput);
-    SegundoInput = Number(SegundoInput);
-
     // Define o valor mínimo e máximo para o sorteio
     let min = Math.min(PrimeiroInput, SegundoInput);
     let max = Math.max(PrimeiroInput, SegundoInput);
