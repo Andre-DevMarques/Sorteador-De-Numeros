@@ -19,3 +19,4 @@ button.addEventListener("click", function() {
         alert("O valor MINIMO não pode ser maior do que o valor maximo")
     }
 });
+
