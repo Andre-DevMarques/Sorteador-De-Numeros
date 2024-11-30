@@ -1,6 +1,6 @@
 <h1 align="center">Sorteador De Números</h1>
 
-<img src="https://github.com/Andre-DevMarques/Sorteador-De-Moedas-Projeto/blob/main/img/image-site.png?raw=true">
+<img src="https://github.com/Andre-DevMarques/Sorteador-De-Numeros/blob/main/img/image-site.png?raw=true">
 <h4> Tecnologias usadas </h4>
   
 <ul>
