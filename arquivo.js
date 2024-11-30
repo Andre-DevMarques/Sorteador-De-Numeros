@@ -3,7 +3,7 @@ let button = document.querySelector("#button");
 button.addEventListener("click", function() {
     let PrimeiroInput = document.querySelector("#input1").value;
     let SegundoInput = document.querySelector("#input2").value;
-    let resultado = document.querySelector("#resultado");
+    let resultado = document.querySelector("#resultado")
 
     // Define o valor mínimo e máximo para o sorteio
     let min = Math.min(PrimeiroInput);

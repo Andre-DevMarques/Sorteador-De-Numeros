@@ -36,6 +36,7 @@ p{
 }
 
 #input-div{
+    
     display: block; /* Altera para block para que os inputs fiquem em uma linha embaixo */
     justify-content: center;
     gap: 20px;
