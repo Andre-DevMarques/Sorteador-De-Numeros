@@ -12,6 +12,9 @@
 body{
 
     background-color: #2C2C54;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 
 }
 
@@ -74,4 +77,26 @@ p{
 
 #button:active{
     opacity: 0.5;
+}
+
+@media screen and (max-width: 800px) {
+    
+
+    #h1Header{
+
+        display: flex;
+        justify-content: center;
+
+    }
+
+    h1{
+
+        margin: 0;
+        font-size: 1px;
+        margin-bottom: 15px;
+        width: 100%;
+
+    }
+
+
 }
